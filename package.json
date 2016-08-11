@@ -1,0 +1,15 @@
+{
+  "name": "interactive-script",
+  "version": "1.0.0",
+  "description": "Easy to write interactive scripts",
+  "main": "index.js",
+  "keywords": [
+    "script",
+    "interactive",
+    "readline",
+    "interface",
+    "terminal"
+  ],
+  "author": "Lee Byron <lee@leebyron.com> (http://leebyron.com/)",
+  "license": "MIT"
+}
